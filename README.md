@@ -78,8 +78,6 @@ dan CSS.</p>
 
 ```
 
-![img](gambar/3.png)
-
 4. Membuat CSS Eksternal
 
 ```css
